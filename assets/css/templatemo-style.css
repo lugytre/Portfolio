@@ -53,7 +53,9 @@ h4 {
 }
 
 img {
-    width: 100%;
+    /* width: 100%; */
+    width: 140px;
+    height: 140px;
     overflow: hidden;
 }
 
@@ -136,7 +138,7 @@ html {
 }
 
 .menu .image img {
-    width: 100px;
+    width: 140px;
     height: 140px;
     border-radius: 50%;
     text-align: center;
@@ -809,4 +811,5 @@ section.contact-me {
         margin-bottom: 20px;
     }
 }
+
 
