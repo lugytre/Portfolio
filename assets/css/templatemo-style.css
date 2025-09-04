@@ -134,6 +134,7 @@ html {
 .menu .image {
     object-fit: cover;
     margin-top: 60px;
+    object-position: center;
 }
 
 .menu .image img {
@@ -810,4 +811,5 @@ section.contact-me {
         margin-bottom: 20px;
     }
 }
+
 
