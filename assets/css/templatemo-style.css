@@ -132,8 +132,7 @@ html {
 /* Sidebar Menu */
 
 .menu .image {
-    width: 140px;
-    height: 140px;
+    object-fit: cover;
     margin-top: 60px;
 }
 
@@ -811,3 +810,4 @@ section.contact-me {
         margin-bottom: 20px;
     }
 }
+
