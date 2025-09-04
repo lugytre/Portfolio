@@ -136,7 +136,7 @@ html {
 }
 
 .menu .image img {
-    width: 120px;
+    width: 100px;
     height: 140px;
     border-radius: 50%;
     text-align: center;
@@ -809,3 +809,4 @@ section.contact-me {
         margin-bottom: 20px;
     }
 }
+
